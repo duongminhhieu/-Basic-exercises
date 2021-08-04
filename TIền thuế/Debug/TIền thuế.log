@@ -1,0 +1,4 @@
+﻿  Define Function.cpp
+D:\TIền thuế\TIền thuế\Define Function.cpp(31,56): warning C4244: 'return': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\TIền thuế\TIền thuế\Define Function.cpp(34,19): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  TIền thuế.vcxproj -> D:\TIền thuế\Debug\TIền thuế.exe

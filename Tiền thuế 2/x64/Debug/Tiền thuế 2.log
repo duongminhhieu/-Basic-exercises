@@ -1,0 +1,7 @@
+﻿  Define Function.cpp
+D:\TIền thuế\Tiền thuế 2\Define Function.cpp(13,48): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\TIền thuế\Tiền thuế 2\Define Function.cpp(14,21): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Result.cpp
+D:\TIền thuế\Tiền thuế 2\Result.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Tiền thuế 2.vcxproj -> D:\TIền thuế\x64\Debug\Tiền thuế 2.exe

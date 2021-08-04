@@ -1,0 +1,5 @@
+﻿  Define Function.cpp
+D:\TIền thuế\Tiền điện\Define Function.cpp(31,14): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Result.cpp
+  Generating Code...
+  Tiền điện.vcxproj -> D:\TIền thuế\Debug\Tiền điện.exe

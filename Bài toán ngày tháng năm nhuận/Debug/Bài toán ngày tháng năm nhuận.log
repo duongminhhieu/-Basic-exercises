@@ -1,0 +1,11 @@
+﻿  Define Function.cpp
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Define Function.cpp(36,6): warning C4101: 'ngay': unreferenced local variable
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Define Function.cpp(36,19): warning C4101: 'nam': unreferenced local variable
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Define Function.cpp(36,12): warning C4101: 'thang': unreferenced local variable
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Define Function.cpp(51,26): warning C4018: '<': signed/unsigned mismatch
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Define Function.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+  Result.cpp
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Result.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\TIền thuế\Bài toán ngày tháng năm nhuận\Result.cpp(16,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Bài toán ngày tháng năm nhuận.vcxproj -> D:\TIền thuế\Debug\Bài toán ngày tháng năm nhuận.exe
